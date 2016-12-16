@@ -6,10 +6,15 @@ Some Insights Credit Risk Data from Lendingclub.com
 https://www.kaggle.com/wendykan/lending-club-loan-data
 
 2) Different Data Mining Algorithms Applied
+
   a)KNN
+  
   b)KKNN
+  
   c)CART
+  
   d)C5.0
+  
   e)ANN
   
 3)OBJECTIVE
