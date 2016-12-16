@@ -13,6 +13,7 @@ https://www.kaggle.com/wendykan/lending-club-loan-data
   1)TO CALCULATE ACCURACY FOR DIFFERENT LOAN STATUS
     KNN     14 seconds to run prediction
     KKNN    15 seconds to run prediction
+    C5.0    180seconds to run
   2)GOOD BAD
     CART
     ANN
